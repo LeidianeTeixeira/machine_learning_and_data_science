@@ -1,5 +1,5 @@
-###Autora:
-*Leidiane Teixeira
+### Autora:
+* Leidiane Teixeira
 <p align="center">
   <img src="/img/github_cover.png" >
 </p>
