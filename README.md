@@ -14,6 +14,6 @@ Lista de projetos:
 
 ### Sobre mim:
 
-Sou graduanda do curso de bacharelado em sistemas de informação.
+Sou graduanda do curso de Bacharelado em Sistemas de Informação. Sempre em busca de novos conhecimentos. Apaixonada por Machine Learning 
 
 * Graduação em Sistemas de Informação pelo IFNMG.
