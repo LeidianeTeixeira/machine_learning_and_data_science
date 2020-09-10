@@ -4,7 +4,7 @@
   <img src="ml_ds.png" >
 </p>
 
-Aqui você encontra os  meus projetos na área de Machine Learning .
+Aqui você encontra os  meus projetos na área de Machine Learning e Data Science.
 
 ## Projetos:
 Lista de projetos:
