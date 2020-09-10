@@ -1,4 +1,4 @@
-[Author](linkedin.com/in/leidianeteixeira)
+[Author](linkedin.com/in/leidianeteixeira/)
 
 <p align="center">
   <img src="ml_ds.png" >
