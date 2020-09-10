@@ -1,7 +1,7 @@
 ### Autora: *Leidiane Teixeira*
 
 <p align="center">
-  <img src="capa .png" >
+  <img src="ml_ds.png" >
 </p>
 
 Aqui você encontra os  meus projetos na área de Machine Learning .
