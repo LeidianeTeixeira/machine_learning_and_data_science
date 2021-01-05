@@ -8,7 +8,7 @@ Aqui você encontra os  meus projetos na área de Machine Learning e Data Scienc
 ## Projetos:
 Lista de projetos:
 * **Data Analysis with python:** 
-* **Previsão de autonomia de veículos a partir do peso:** 
+* **Previsão de autonomia de veículos a partir do peso:** https://github.com/LeidianeTeixeira/Machine_Learning-and-Data_Science/blob/master/AutoMPG_Prevendo_autonomia_a_partir_do_peso.ipynb
 
 ---
 
