@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="ml_ds.png" >
+  <img src="img/ml_ds.png" >
 </p>
 
 Aqui você encontra os  meus projetos na área de Machine Learning e Data Science.
