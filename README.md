@@ -4,7 +4,7 @@
 Aqui você encontra os  meus projetos na área de Machine Learning e Data Science.
 
 ## Projetos:
-Lista de projetos:
+**Lista de projetos:**
 * **Data Analysis with python:** (Notebook Jupyter com um conteúdo didático para aprender desde o carregamento de dados à construção e avaliação de modelos matemáticos.)
   - Notebook: https://bit.ly/3iNoRqe
   - Base de Dados: https://bit.ly/3iM2EbK
