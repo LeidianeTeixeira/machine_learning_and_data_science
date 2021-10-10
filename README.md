@@ -11,9 +11,9 @@ Lista de projetos:
 * **Previsão de autonomia de veículos a partir do peso:** 
   - Notebook:  https://bit.ly/3iKmhkr
   - Base de dados: https://bit.ly/3mF64hL
-*  **Parkinson:** Aplicação da RNAs MLP para verificar se ́e possível definir, com base nos dados apresentados, se uma pessoa está com a doença de Parkinson.
+*  **Parkinson:** Aplicação da RNAs MLP para verificar se ́é possível definir, com base nos dados apresentados, se uma pessoa está com a doença de Parkinson.
     - Notebook: https://bit.ly/3uY5W0w
-    - Relatorio: https://bit.ly/30hRipT
+    - Relatório: https://bit.ly/30hRipT
     - Base de dados: https://bit.ly/3arrvgt
 ---
 
