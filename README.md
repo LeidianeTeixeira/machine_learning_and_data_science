@@ -9,8 +9,8 @@ Lista de projetos:
   - Notebook: https://bit.ly/3iNoRqe
   - Base de Dados: https://bit.ly/3iM2EbK
 * **Previsão de autonomia de veículos a partir do peso:** 
- - Notebook:  https://bit.ly/3iKmhkr
- - Base de dados: https://bit.ly/3mF64hL
+  - Notebook:  https://bit.ly/3iKmhkr
+  - Base de dados: https://bit.ly/3mF64hL
 *  **Parkinson:** Aplicação da RNAs MLP para verificar se ́e possível definir, com base nos dados apresentados, se uma pessoa está com a doença de Parkinson.
     - Notebook: https://bit.ly/3uY5W0w
     - Relatorio: https://bit.ly/30hRipT
